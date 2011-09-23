@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+    <name>hpbuniat.github.com/pear</name>
+    <summary>pear-repository</summary>
+    <alias>hpbuniat</alias>
+    <url>http://hpbuniat.github.com/pear</url>
+</server>

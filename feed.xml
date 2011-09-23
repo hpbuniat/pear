@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://hpbuniat.github.com/pear</id>
+    <updated>2011-09-23T08:21:09+02:00</updated>
+    <title>pear-repository Latest Releases</title>
+    <link href="http://hpbuniat.github.com/pear/feed.xml" rel="self" />
+    <author>
+        <name>http://hpbuniat.github.com/pear</name>
+    </author>
+
+
+</feed>
